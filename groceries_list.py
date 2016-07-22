@@ -1,4 +1,4 @@
-import openpyxl #to be able to work with excel
+import openpyxl #to be able to work with Excel
 import csv #to be able to work with .csv
 
 #Accessed the cells in meal plan
@@ -49,7 +49,7 @@ final_ordered = sorted(final_list)
 print final_ordered
 
 #Printing one by one [foods, amounts and units] and export to .txt
-file = open("/Users/danyaramirez/Dropbox/Shared_Kyle_Danya/Food/Program/shopping_list.txt","w")
+file = open("/Users/danyaramirez/Dropbox/Shared_Kyle_Danya/Food/Program/shopping_list","w")
 for item in final_ordered:
     if item in units:
         print>>file, item + " - " + str(total_per_food[item])+ units[item]
