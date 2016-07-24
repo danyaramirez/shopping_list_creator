@@ -46,10 +46,10 @@ for row in reader:#telling python that in the file above the elements in a and b
 #Creating a final list of foods
 final_list = set(rr)
 final_ordered = sorted(final_list)
-print final_ordered
+# print final_ordered
 
 #Printing one by one [foods, amounts and units] and export to .txt
-file = open("/Users/danyaramirez/Dropbox/Shared_Kyle_Danya/Food/Program/shopping_list","w")
+file = open("/Users/danyaramirez/Dropbox/Shared_Kyle_Danya/Food/Program/shopping_list.txt","w")
 for item in final_ordered:
     if item in units:
         print>>file, item + " - " + str(total_per_food[item])+ units[item]
