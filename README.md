@@ -1,4 +1,4 @@
-# Shopping-List Creator
+# Shopping List Creator
 A tool that transforms a meal plan with ingredients for all days of the week into a shopping list with amounts to buy. 
 Customized to the way you eat. 
 Zero waste.
