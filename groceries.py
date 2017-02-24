@@ -16,23 +16,24 @@ for row in many_cells:
     for cell in row:
         all_foods.append(cell.value)
 # Eliminate the empty cells from the list of foods
-rr = [x for x in all_foods if x is not None]
+mealplan_foods = [x for x in all_foods if x is not None]
 
 # Creating a final list of foods
-final_list = set(rr)
-final_ordered = sorted(final_list)
+no_food_repeats = set(mealplan_foods)
+no_repeats_ordered = sorted(no_food_repeats)
 
 # Creating a dictionary 1: Count the instances of each item on the list (key)
 # and add that number as a value.
 instances_of_food = {}
-for item in final_ordered:
-    count = final_ordered.count(item)
-    instances_of_food[item] = float(count)
+for food in no_repeats_ordered:
+    count = mealplan_foods.count(food)
+    instances_of_food[food] = float(count)
 
 # Accessing the file for amounts.
 reader = csv.reader(open(dir_path + "/dictionary.csv", "Ur"))
 for row in reader:
     d = dict((rows[0], float(rows[2])) for rows in reader)
+print d
 
 # Creating a dictionary 2: The value is the total of number of incidences times
 # the amounts.
@@ -59,9 +60,8 @@ for row in reader:
 
 # Printing one by one [food, amount, unit and rule] and export to .txt
 file = open(dir_path + "/shopping_list.txt", "w")
-for item in final_ordered:
+for item in no_repeats_ordered:
     if item in units:
-        print>>file, str(item) + " - " + str(total_per_food[item]) + " "
-        + units[item] + "\n" + rules[item] + "\n"
+        print>>file, str(item) + " - " + str(total_per_food[item]) + " " + units[item] + "\n" + rules[item] + "\n"
     else:
         print>>file, str(item) + " is not in the database" + "\n"

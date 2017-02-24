@@ -1,36 +1,70 @@
-avocado - 1.0 unit
+avocado - 3.0 unit
 Soft at the top but yields only a small amount in the middle; check the part where the stem was: if it is brown, then it is too ripe.
 
-baby banana - 2.0 unit
+baby banana - 14.0 unit
 Yellowing is ok, but not green.
 
-carrot - 1.0 unit
+beef - 1.0 lb
+Lean
+
+bread - 11.0 slice
+NO! Bake it at home!
+
+canned tomato - 1.0 can
+No salt or anything added; in water
+
+carrot - 14.0 unit
 Look for purple, red and deep orange carrots; don't buy baby carrots!; buy carrots with the green part attached (they are fresher) and check that the green part is not wilted.
 
 cheese is not in the database
 
+chicken is not in the database
+
+couscous - 1.5 cup
+Try to get brown.
+
+fish - 1.0 lb
+Any that is not too expensive (9 usd per lb or less). No cod.
+
 fruit is not in the database
 
-garlic - 1.0 clove
+garlic - 14.0 clove
 Reject if there are any signs of sprouting; bulbs should be firm and have no brown spots, dampness, softening or mildew. Buy HARD NECK!
 
-green pepper - 0.25 unit
-Buy peppers that are dark green all over; reject wrinkle, dented peppers or those that have dark spots or a wilted stem.
+green pepper - 3.5 unit
+Buy peppers that are dark green all over; reject wrinkle, dented peppers or those that have darl spots or a wilted stem.
 
-lemon - 0.25 unit
+ground beef - 1.0 lb
+90% or more of lean meat
+
+honey is not in the database
+
+lemon - 0.5 unit
 Look for fruit that is firm but not hard, glossy skins and no soft spots. Heavy for the size. Buy ripe, rich yellow color (no hint of green). Organic!
 
-milk - 400.0 ml
+milk - 5600.0 ml
 Non-fat (skim milk)
+
+nuts - 280.0 oz
+Non-salted, nothing added to them
+
+pasta - 12.0 cup
+Whole wheat pasta
 
 peanut butter is not in the database
 
-red onion - 0.25 unit
+pinto beans - 1.0 lb
+Dry; if not, no salt or anything added
+
+pork - 1.0 gr
+As lean as possible
+
+red onion - 3.5 unit
 The smaller, the better. Round and oblong onions are better. Look for firm onions, intact outer skin. Avoid lighter colors.
 
-rice - 0.5 cup
+rice - 2.0 cup
 Whole-grain; moderate length
 
-sweet potato - 1.5 unit
+sweet potato - 3.0 unit
 Look for the deeper flesh colors; if you don't know the color of the flesh, go for the darkest skin.
 

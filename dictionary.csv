@@ -1,3 +1,4 @@
+FOOD,UNIT NAME,AMOUNT PER MEAL,NOTES
 apple,unit,1,Buy organic; buy the most colorful and/or red. Buy local.
 apricot,unit,2,"Only in August; plump, tight-skinned, yellow or orange, minimum pale yellow; it gives a little when you touch it gently in the middle."
 artichoke,unit,1,"Buy the freshest; rub two together, they should squeak. Look for violet-colored varieties."
@@ -16,7 +17,7 @@ canned clams,can,0.5,No salt or anything added; in water
 canned garbanzo,can,0.5,No salt or anything added; in water
 canned tomato,can,0.5,No salt or anything added; in water
 canned tuna,can,0.5,No salt or anything added; in water
-cantaloupe (big),unit,0.25,"Choose dark fleshed fruit. No dents, fissure, or mold. Look at the stem end; the fruit should have a slight depression or an �ginnie�h. A ripe melon smells sweet and musky. Press the blossom end with your thumb, it should depress slightly."
+cantaloupe (big),unit,0.25,"Choose dark fleshed fruit. No dents, fissure, or mold. Look at the stem end; the fruit should have a slight depression. A ripe melon smells sweet and musky. Press the blossom end with your thumb, it should depress slightly."
 carrot,unit,1,"Look for purple, red and deep orange carrots; don't buy baby carrots!; buy carrots with the green part attached (they are fresher) and check that the green part is not wilted."
 cauliflower,bunch,0.5,"Reject if it has spots, speckles, bruises or traces of gray mold. The leaves should be bright green. Beware of cauliflower that looks shaved because it means the mold was scrapped."
 cherries,hf,2,"Look for tart, dark cherries in good condition. Fresh, shiny and free of dents. Ripe. The stem should be green, supple but firm. Get organic or get imported."
@@ -55,7 +56,7 @@ oatmeal,hf,2,"Whole oats, with no additives"
 orange,unit,1,"Check that the oranges in display do not have all the same color. If they do, they have been dyed. If you are not sure, bring the largest (they grow as they ripen). Do not buy in October (too early), and wait until December. Buy them ripe! Try to buy oranges from places with cooler nights (eg. California)."
 papaya,unit,1,"Ripe: Mostly yellow or orange-yellow. Press the rounded end of a papaya and it should have a slight give, but the stem should be firm, not soft."
 parmesan cheese,oz,1,"Complete block, do not buy already shreded"
-pasta,cup,6,Whole -wheat pasta
+pasta,cup,6,Whole wheat pasta
 peach,unit,1,With hair. Choose ripe or nearly-ripe; white-fleshed fruit (no trace of green). Buy local and organic.
 pineapple,unit,0.25,Buy ripe (they usually are). Look for crown leaves that are deep green with no signs of fading and browning. You should not be able to plug a leaf.
 pinto beans,lb,0.5,"Dry; if not, no salt or anything added"
@@ -74,4 +75,4 @@ spinach,hf,2,With the roots; not cut; lush green and must look fresh
 strawberries,hf,2,"Completely red and with a red gloss. Reject if the container has damaged, leaking or moldy fruit. Buy local and organic in the US."
 sweet potato,unit,1.5,"Look for the deeper flesh colors; if you don't know the color of the flesh, go for the darkest skin."
 tofu,box,1,Ask because it depends on what is being cooked.
-watermelon (big),unit,0.2,"Try to see the inside (halves are good) and look for dark red. If you cannot see the inside: look for one starting to lose its gloss. Examine the �gground spot�h; it should be yellow, not green or white. Tap the watermelon: hollow sound rather than flat thump. Look for small watermelons."
+watermelon (big),unit,0.2,"Try to see the inside (halves are good) and look for dark red. If you cannot see the inside: look for one starting to lose its gloss. Examine the stem area; it should be yellow, not green or white. Tap the watermelon: hollow sound rather than flat thump. Look for small watermelons."
