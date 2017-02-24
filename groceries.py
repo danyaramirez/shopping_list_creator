@@ -33,7 +33,6 @@ for food in no_repeats_ordered:
 reader = csv.reader(open(dir_path + "/dictionary.csv", "Ur"))
 for row in reader:
     d = dict((rows[0], float(rows[2])) for rows in reader)
-print d
 
 # Creating a dictionary 2: The value is the total of number of incidences times
 # the amounts.
