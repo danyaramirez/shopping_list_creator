@@ -1,6 +1,7 @@
 import openpyxl  # to be able to work with Excel
 import csv  # to be able to work with .csv
 import os  # to be able to find the files in the current folder
+from datetime import datetime
 
 # Location of THIS file is dir_path
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -59,6 +60,8 @@ for row in reader:
 
 # Printing one by one [food, amount, unit and rule] and export to .txt
 file = open(dir_path + "/shopping_list.txt", "w")
+rightnow = datetime.now()
+print>>file, rightnow.strftime('created %c\n')
 for item in no_repeats_ordered:
     if item in units:
         print>>file, str(item) + " - " + str(total_per_food[item]) + " " + units[item] + "\n" + rules[item] + "\n"
