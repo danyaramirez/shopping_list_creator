@@ -1,4 +1,4 @@
-avocado - 3.0 unit
+avocado - 2.0 unit
 Soft at the top but yields only a small amount in the middle; check the part where the stem was: if it is brown, then it is too ripe.
 
 baby banana - 14.0 unit
@@ -7,7 +7,7 @@ Yellowing is ok, but not green.
 beef - 1.0 lb
 Lean
 
-bread - 11.0 slice
+bread - 9.0 slice
 NO! Bake it at home!
 
 canned tomato - 1.0 can
@@ -39,8 +39,7 @@ ground beef - 1.0 lb
 
 honey is not in the database
 
-lemon - 0.5 unit
-Look for fruit that is firm but not hard, glossy skins and no soft spots. Heavy for the size. Buy ripe, rich yellow color (no hint of green). Organic!
+lentils is not in the database
 
 milk - 5600.0 ml
 Non-fat (skim milk)
@@ -53,11 +52,10 @@ Whole wheat pasta
 
 peanut butter is not in the database
 
-pinto beans - 1.0 lb
-Dry; if not, no salt or anything added
-
 pork - 1.0 gr
 As lean as possible
+
+purple potato is not in the database
 
 red onion - 3.5 unit
 The smaller, the better. Round and oblong onions are better. Look for firm onions, intact outer skin. Avoid lighter colors.
